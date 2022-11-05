@@ -1,0 +1,198 @@
+Command Name :Date
+Execution Time :4/13/2019 1:55:58 PM
+Command Name :Time
+Execution Time :4/13/2019 1:57:32 PM
+Command Name :Who am I ?
+Execution Time :4/13/2019 1:58:15 PM
+anurag\anuragpc
+
+Command Name :ipConfig/all
+Execution Time :4/13/2019 1:58:31 PM
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Anurag
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : domain.name
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 78-0C-B8-15-47-89
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 14:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Hosted Network Virtual Adapter
+   Physical Address. . . . . . . . . : 7A-0C-B8-15-47-85
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : TAP-Win32 Adapter V9
+   Physical Address. . . . . . . . . : 00-FF-4A-2E-F4-13
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 78-0C-B8-15-47-86
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : domain.name
+   Description . . . . . . . . . . . : Intel(R) Dual Band Wireless-AC 3160
+   Physical Address. . . . . . . . . : 78-0C-B8-15-47-85
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2001:e68:5410:cd8f:c543:c7c2:ad86:bb0(Preferred) 
+   IPv6 Address. . . . . . . . . . . : fc01::c543:c7c2:ad86:bb0(Preferred) 
+   Temporary IPv6 Address. . . . . . : 2001:e68:5410:cd8f:fc05:82f1:f087:3654(Preferred) 
+   Temporary IPv6 Address. . . . . . : fc01::fc05:82f1:f087:3654(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::c543:c7c2:ad86:bb0%4(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.5(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Saturday, April 13, 2019 10:37:48 AM
+   Lease Expires . . . . . . . . . . : Saturday, April 13, 2019 4:10:23 PM
+   Default Gateway . . . . . . . . . : fe80::e6be:edff:febd:8bc0%4
+                                       192.168.1.1
+   DHCP Server . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 158862520
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1E-A8-E9-F9-20-47-47-E7-76-AE
+   DNS Servers . . . . . . . . . . . : 2001:e68::b:68
+                                       2001:e68::b:69
+                                       208.67.222.222
+                                       208.255.220.220
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe FE Family Controller
+   Physical Address. . . . . . . . . : 20-47-47-E7-76-AE
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-00
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::c943:4ce3:f45d:c827%17(Preferred) 
+   Autoconfiguration IPv4 Address. . : 169.254.200.39(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 688521255
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1E-A8-E9-F9-20-47-47-E7-76-AE
+   DNS Servers . . . . . . . . . . . : 8.8.8.8
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VirtualBox Host-Only Network #2:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter #2
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-00
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::1465:6f0a:21a1:6b58%31(Preferred) 
+   Autoconfiguration IPv4 Address. . : 169.254.107.88(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 1074397223
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1E-A8-E9-F9-20-47-47-E7-76-AE
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VirtualBox Host-Only Network #3:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter #3
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-00
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::3cf4:d0d0:5d45:bd4d%32(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.71.34.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 1141506087
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1E-A8-E9-F9-20-47-47-E7-76-AE
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{49D19534-2E0D-4D7D-B917-DF7E16209A39}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #2
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.{1069E945-457E-44A6-B5D6-DB488F424D51}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #3
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.{0AFFC142-781D-4A17-8F70-5695F8B02FD2}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.domain.name:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : domain.name
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #6
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Command Name :Date
+Execution Time :4/13/2019 5:58:51 PM
+The current date is: Sat 04/13/2019 
+
+Command Name :Time
+Execution Time :4/13/2019 5:58:58 PM
+The current time is: 17:58:55.42
+
+Command Name :Who am I/User ?
+Execution Time :4/13/2019 5:59:22 PM
+
+USER INFORMATION
+----------------
+
+User Name       SID                                          
+=============== =============================================
+anurag\anuragpc S-1-5-21-357661593-4147594703-2268233597-1001
+

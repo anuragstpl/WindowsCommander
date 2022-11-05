@@ -1,0 +1,9 @@
+E:\Student Jobs\DotNet\WindowsCommands\CommandWorker\WindowsCommander\bin\Debug\WindowsCommander.exe
+E:\Student Jobs\DotNet\WindowsCommands\CommandWorker\WindowsCommander\bin\Debug\WindowsCommander.pdb
+E:\Student Jobs\DotNet\WindowsCommands\CommandWorker\WindowsCommander\bin\Debug\WindowsCommander.xml
+E:\Student Jobs\DotNet\WindowsCommands\CommandWorker\WindowsCommander\obj\Debug\WindowsCommander.Form1.resources
+E:\Student Jobs\DotNet\WindowsCommands\CommandWorker\WindowsCommander\obj\Debug\WindowsCommander.Resources.resources
+E:\Student Jobs\DotNet\WindowsCommands\CommandWorker\WindowsCommander\obj\Debug\WindowsCommander.vbproj.GenerateResource.Cache
+E:\Student Jobs\DotNet\WindowsCommands\CommandWorker\WindowsCommander\obj\Debug\WindowsCommander.exe
+E:\Student Jobs\DotNet\WindowsCommands\CommandWorker\WindowsCommander\obj\Debug\WindowsCommander.xml
+E:\Student Jobs\DotNet\WindowsCommands\CommandWorker\WindowsCommander\obj\Debug\WindowsCommander.pdb
